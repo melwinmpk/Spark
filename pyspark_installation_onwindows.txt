@@ -1,0 +1,29 @@
+
+set the environment variable 
+SPARK_HOME = C:\spark_installation\spark3  															(the zip which you got from the udemy class)
+HADOOP_HOME = C:\spark_installation\hadoop27 														(the zip which you got from the udemy class)
+JAVA_HOME = C:\Program Files\Java\jdk1.8.0_321 														(link https://www.oracle.com/java/technologies/downloads/#java8)
+PYSPARK_PYTHON = C:\Users\Futurense\AppData\Local\Programs\Python\Python38\python.exe 				(location where you have installed the python)
+
+
+Pycharm
+in the settings select the python intepreter which is mentioned in the PYSPARK_PYTHON
+add pyspark package inside the python intrepreter 
+ 
+
+to set up the pyspark in the jupyter notebook
+
+pip install pyspark
+pip install findspark
+
+import findspark
+findspark.init()
+
+
+on reple mode
+
+%SPARK_HOME%bin/pyspark
+
+
+PYSPARK_PATH  (i have created the environment variable to access the above)
+

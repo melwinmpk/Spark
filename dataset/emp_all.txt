@@ -1,0 +1,7 @@
+id|name,sal|country
+101|sohail|1000|IN
+102|Saif|2000|US
+103|Mitali|3000|US
+104|Manas|4000|UK
+105|Ram|5000|IN
+106|Sam|6000|UK

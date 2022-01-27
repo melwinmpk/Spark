@@ -1,0 +1,12 @@
+dept,cadre,costToCompany,state
+Sales,Trainee,12000,UK
+Sales,Lead,32000,AUS
+Sales,Lead,32000,NY
+Sales,Lead,32000,IND
+Sales,Lead,32000,AUS
+Sales,Lead,32000,IND
+Sales,Lead,32000,NY
+Sales,Lead,32000,NY
+Marketing,Associate,18000,IND
+Marketing,Associate,18000,IND
+HR,Manager,58000,IND
